@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: menghout009-react-restaurant-landing-page
-          image: kshrdautopilot/menghout009-react-restaurant-landing-page
+          image: kshrdautopilot/menghout009-react-restaurant-landing-page:2023-12-07-01-29-38
           ports:
             - containerPort: 3000
